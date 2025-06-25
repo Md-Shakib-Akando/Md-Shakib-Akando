@@ -1,4 +1,26 @@
+<p align="center">
+  <img src="https://github.com/Md-Shakib-Akando/Md-Shakib-Akando/blob/main/Github%20banner.jpg" alt="Banner" />
+</p>
 
+<h1 align="center">Hi, I'm Shakib Akando 👋</h1>
+<h3 align="center">Frontend Developer | React Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate Frontend Developer from Bangladesh who loves building beautiful and user-friendly web applications. I specialize in modern JavaScript frameworks and always look forward to learning new technologies and frameworks.
+
+---
+
+## 🚀 Current Activities
+
+- 🔭 I’m currently Exploring **Next.js**.
+- 🌱  for server-side rendering.
+- 🛠️ Improving skills in **Firebase Authentication** and **Tailwind CSS**.
+- 💬 Actively contributing to open-source frontend projects.
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sha.kib.493731) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-shakib-akando-b1a84533b/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdshakibss80792@gmail.com) 
 
