@@ -56,7 +56,7 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 
 ![](https://github-readme-stats.vercel.app/api?username=Md-Shakib-Akando&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-Shakib-Akando&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) avoid drak theme
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 
 ## 🏆 GitHub Trophies
