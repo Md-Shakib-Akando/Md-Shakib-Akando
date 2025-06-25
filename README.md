@@ -2,7 +2,7 @@
   <img src="https://github.com/Md-Shakib-Akando/Md-Shakib-Akando/blob/main/Github%20banner.jpg" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Shakib Akando 👋</h1>
+<h1 align="center">Hey there! I'm Shakib Akando 👋</h1>
 <h3 align="center">Frontend Developer | React Enthusiast</h3>
 
 ---
@@ -15,10 +15,10 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 
 ## 🚀 Current Activities
 
-- 🔭 I’m currently Exploring **Next.js**.
-- 🌱  for server-side rendering.
-- 🛠️ Improving skills in **Firebase Authentication** and **Tailwind CSS**.
-- 💬 Actively contributing to open-source frontend projects.
+-  I’m currently Exploring **Express.js**.
+-  Recently completed my **Rentify Cars** full-stack project.
+-  Practicing authentication systems with Firebase Auth and JWT.
+-  Actively contributing to open-source frontend projects.
 
 ---
 ## 🌐 Socials:
@@ -51,11 +51,9 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 ---
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Md-Shakib-Akando&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Md-Shakib-Akando&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Md-Shakib-Akando&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Md-Shakib-Akando&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) avoid drak theme
 
 
 ## 🏆 GitHub Trophies
