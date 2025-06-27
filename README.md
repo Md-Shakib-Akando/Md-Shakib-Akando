@@ -55,8 +55,8 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-Shakib-Akando&theme=dark&hide_border=true)<br/>
 <p float="left">
-   ![Md-Shakib-Akando Stats](https://github-readme-stats.vercel.app/api?username=Md-Shakib-Akando&theme=merko&show_icons=true&hide_border=false&count_private=true)
-  ![Md-Shakib-Akando Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&theme=merko&show_icons=true&hide_border=false&layout=compact)
+   ![SafuGit's Stats](https://github-readme-stats.vercel.app/api?username=Md-Shakib-Akando&theme=merko&show_icons=true&hide_border=false&count_private=true)
+  ![SafuGit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&theme=merko&show_icons=true&hide_border=false&layout=compact)
  
   
 </p>
