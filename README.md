@@ -66,7 +66,7 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 
 
 # Statistics
-![Snake animation](https://raw.githubusercontent.com/Md-Shakib-Akando/Md-Shakib-Akando/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/SafuGit/SafuGit/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Md-Shakib-Akando&theme=radical&no-frame=false&no-bg=true&margin-w=4)
