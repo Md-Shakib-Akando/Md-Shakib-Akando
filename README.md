@@ -58,6 +58,8 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-Shakib-Akando&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
+# Statistics
+![Snake animation](https://raw.githubusercontent.com/Md-Shakib-Akando/Md-Shakib-Akando/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Md-Shakib-Akando&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -68,4 +70,13 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 ---
 [![](https://visitcount.itsvg.in/api?id=Md-Shakib-Akando&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p float="left">
+
+  ![SafuGit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shakib-Akando&theme=merko&show_icons=true&hide_border=false&layout=compact)
+  ![SafuGit's Stats](https://github-readme-stats.vercel.app/api?username=Md-Shakib-Akando&theme=merko&show_icons=true&hide_border=false&count_private=true)
+  
+</p>
