@@ -15,8 +15,8 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 
 ## 🚀 Current Activities
 
--  I’m currently Exploring **Express.js**.
--  Recently completed my **Rentify Cars** full-stack project.
+-  I’m currently Exploring **Next.js**.
+-  Recently completed my **Medicine Shop** full-stack project.
 -  Practicing authentication systems with Firebase Auth and JWT.
 -  Actively contributing to open-source frontend projects.
 
