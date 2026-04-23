@@ -63,14 +63,11 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Shakib-Akando&show_icons=true&theme=merko&count_private=true)
 
 
-
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Md-Shakib-Akando&theme=onedark&no-frame=true&margin-w=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Md-Shakib-Akando)
 
-## 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Md-Shakib-Akando&limit=5)
-
----
+## 🔝 Top Repo
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Md-Shakib-Akando)
 
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Md-Shakib-Akando&label=Profile%20views&color=0e75b6&style=flat)
