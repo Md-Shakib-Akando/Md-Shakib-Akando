@@ -64,11 +64,10 @@ I'm a passionate Frontend Developer from Bangladesh who loves building beautiful
 
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Md-Shakib-Akando)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Md-Shakib-Akando&theme=flat)
 
-## 🔝 Top Repo
+## 🔝 Top Contributed Repo
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Md-Shakib-Akando)
-
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Md-Shakib-Akando&label=Profile%20views&color=0e75b6&style=flat)
 
